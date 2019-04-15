@@ -1,0 +1,11 @@
+git init
+
+git remote add origin https.....
+
+
+git add "ten file" 
+git add .          //them tat ca
+
+git commit -m "Viet mo ta "
+
+git push origin master
