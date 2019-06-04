@@ -1,11 +1,19 @@
+https://leezin911999.github.io/  -> Là tên của trang chủ (file index.html)
+
+
+mở CMD (git bash here) 
 git init
-
 git remote add origin https.....
-
-
+-Thêm, sửa, xóa
 git add "ten file" 
 git add .          //them tat ca
-
 git commit -m "Viet mo ta "
-
 git push origin master
+
+-Lấy file (folder từ github về máy)
+mở CMD (git bash here) từ thư mục muốn lấy 
+
+git intit
+git remote add origin https.....
+git pull origin master
+
